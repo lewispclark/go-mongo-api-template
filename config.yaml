@@ -1,0 +1,3 @@
+database:
+  uri: "mongodb+srv://username:password@127.0.0.1.kysmj.mongodb.net/?retryWrites=true&w=majority"
+  name: "name"
