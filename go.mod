@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/monzo/typhon v1.1.7
 	github.com/rs/zerolog v1.29.0
-	go.mongodb.org/mongo-driver v1.11.3
+	go.mongodb.org/mongo-driver v1.11.4
 	gopkg.in/yaml.v3 v3.0.1
 )
 
